@@ -18,7 +18,7 @@
 
 ## 📫 Como me encontrar
 - ✉️ **E-mail:** [wppslander@gmail.com](mailto:wppslander@gmail.com)  
-- 🌐 **Site:** [linkedin.com/in/wppslander](https://www.carvalhoevaz.com.br/)
+- 🌐 **Site:** [carvalhoevaz.com.br](https://www.carvalhoevaz.com.br/)
 
 ---
 
