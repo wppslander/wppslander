@@ -1,53 +1,68 @@
-👋 Olá, sou Daniel Wppslander (@Wppslander)
-🚀 Sobre Mim
-Sou um analista de suporte técnico com experiência em infraestrutura de TI, segurança da informação e automação. Atuo na Digital SAT desde fevereiro de 2023, prestando suporte em níveis 1 a 3, implementando soluções eficientes e de baixo custo, alinhadas ao princípio KISS (Keep It Simple, Stupid).
+# Hi there, I'm Daniel Wppslander 👋
 
-Experiência Principal:
+### Systems Analyst | Infrastructure & Security Specialist
 
-Gerenciamento de infraestrutura: Proxmox (PVE, PBS, PMG) para virtualização, backups, RAID, HA e Ceph.
-Monitoramento e alertas: Implementação de Zabbix em Debian 12 para monitoramento proativo de servidores e redes.
-Segurança: Gerenciamento de Bitdefender GravityZone (mais de 60 endpoints), VPN-Wireguard, servidores de e-mail corporativos (PMG, Postfix) e políticas de TI/LGPD, incluindo treinamentos.
-Redes e Cloud: Configuração de Cloudflare (DNS, Tunnel, Email Routing), Docker para contêineres, Mikrotik (MTCNA) e integrações de sistemas.
-Sistemas Operacionais: Especialização em Linux (Debian/Ubuntu), com foco em automação via bash e PHP.
+I am a Systems Analyst based in Camboriú/SC, passionate about **Infrastructure**, **Security**, and **Automation**. I specialize in building robust environments using **Linux**, **Docker**, and **MikroTik**, with a strong focus on monitoring and proactive problem resolution.
 
+I love following the **KISS** (Keep It Simple, Stupid) principle to create efficient and maintainable solutions.
 
+---
 
-Tenho realizado diversas atividades variadas, mas priorizo projetos escaláveis e lucrativos, como automações que otimizam operações e geram eficiência para clientes.
-🛠️ Projetos em Destaque (Foco em Soluções Lucrativas)
-Estou desenvolvendo e comercializando soluções de automação que reduzem custos operacionais e aumentam a produtividade. Esses projetos podem ser vendidos como serviços personalizados, scripts prontos ou consultorias:
+## 🛠️ Tech Stack & Skills
 
-Automação de E-mails e Servidores: Scripts e fluxos para gerenciamento automatizado de e-mails corporativos (integração com Postfix e Cloudflare Email Routing) e servidores, incluindo provisionamento automático, backups e atualizações. Potencial de venda: Pacotes para PMEs que precisam de manutenção remota sem equipe dedicada.
-Automação de Mensagens com n8n, Chatwoot e Zabbix: Integração de workflows no n8n para automação de notificações, suporte ao cliente via Chatwoot e alertas em tempo real do Zabbix. Exemplos incluem bots para atendimento automático e monitoramento inteligente. Potencial de venda: Soluções SaaS para suporte técnico ou e-commerce, cobrando por setup ou assinatura mensal.
-Outras Ideias Lucrativas:
+### Infrastructure & DevOps
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-Automação de Infraestrutura com Docker e Proxmox: Contêineres auto-gerenciados para deploy rápido de aplicações, com integração a backups automáticos. Vendável como templates prontos para virtualização em nuvem híbrida.
-Segurança Automatizada com Bitdefender e Wireguard: Scripts para deployment e monitoramento de EDR/VPN, incluindo relatórios de conformidade LGPD. Potencial: Consultoria para empresas com mais de 50 endpoints, focando em pacotes anuais.
-Integração de Redes com Mikrotik e Cloudflare: Automação de roteamento e túneis seguros. Vendável como serviço para ISPs ou redes corporativas.
+### Networking & Monitoring
+![MikroTik](https://img.shields.io/badge/MikroTik-grey?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
 
+### Development & Scripting
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
-Esses projetos são projetados para serem escaláveis, com baixo overhead e alto retorno, permitindo monetização via freelancing, marketplaces ou parcerias.
-📚 Atualmente Aprendendo
+## 💼 Professional Experience
 
-OpenStack para nuvem privada e híbrida.
-Python e Laravel/PHP para automações avançadas e desenvolvimento back-end.
-Melhoria em segurança da informação e práticas DevOps, incluindo CI/CD.
+### 🏢 **Digital SAT - Distribuidora de Produtos Eletrônicos**
+**Systems & IT Analyst** | *Feb 2023 - Present*
+*   Development of **PHP automations** for APIs and email systems.
+*   Implementation of secure environments using **Docker** and **Cloudflare Tunnels**.
+*   Full infrastructure monitoring with **Zabbix** on **Debian 12**.
+*   Virtualization management with **Proxmox** (VMs, PBS for Backups, PMG for Mail Gateway).
+*   Network security management (VPNs, Firewalls) and **Bitdefender GravityZone** (+60 endpoints).
 
-👀 Interesses
+### 🏛️ **Prefeitura Municipal de Balneário Camboriú**
+**IT Assistance Intern** | *Oct 2020 - Sep 2021*
+*   Level 1 Support (Remote/On-site).
+*   Network and Hardware maintenance assistance.
 
-Infraestrutura de TI, automação e integração de sistemas.
-Desenvolvimento seguro, virtualização e monitoramento inteligente.
-Soluções de cloud híbrida que geram valor comercial.
+---
 
-📫 Contato
+## 📜 Certifications
+*   **MTCNA** - MikroTik Certified Network Associate
+*   **MTCSA** - MikroTik Certified Sales Associate
+*   *In Progress:* MTCSWE, Proxmox, Advanced Zabbix
 
-✉️ E-mail: wppslander@gmail.com
-🌐 Site: carvalhoevaz.com.br
+---
 
+## 📊 GitHub Stats
 
-⭐ Aberto a colaborações em projetos de infraestrutura, segurança e automação. Se precisar de consultoria ou desenvolvimento personalizado, entre em contato para discutir oportunidades lucrativas.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wppslander&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wppslander&layout=compact&theme=tokyonight"/>
+</div>
 
-<!---
-wppslander/wppslander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-wppslander-b2b274a7)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wppslander@gmail.com)
